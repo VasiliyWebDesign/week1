@@ -5,8 +5,8 @@
       "Access-Control-Allow-Origin": "*"
     }
     "/sample/": {
-     function task(x) {
-     return x.toUpperCase();
+     "function task(x)" {
+     "return x.toUpperCase()";
       }
     }
   }
