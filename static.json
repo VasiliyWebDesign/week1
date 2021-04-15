@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "*/": {
+      "X-Author": "Третьяк, Глеб Игоревич",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
